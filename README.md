@@ -1,5 +1,3 @@
-# CraftCore---Minecraft-Server-Hosting
-
 # 🚀 CraftCore - Second Stable Release (v2.0.0)
 
 CraftCore is now live! This all-in-one management hub is designed to help you deploy and manage Minecraft servers effortlessly, with pre-configured Java and Forge environments.
