@@ -14,7 +14,7 @@ CraftCore is now live! This all-in-one management hub is designed to help you de
 
 | File Type | Size | Description |
 | :--- | :--- | :--- |
-| **.zip** | `656 GB` | **Recommended.** Can be extracted natively by Windows. |
+| **.zip** | `656 MB` | **Recommended.** Can be extracted natively by Windows. |
 | **.7z** | `521 MB` | **Compressed.** Requires 7-Zip or WinRAR to extract. |
 | **.exe** | `3 MB` | **Setup.** The fastest and needs nothing. |
 ---
